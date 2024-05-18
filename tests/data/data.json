@@ -1,0 +1,15 @@
+{
+    "base":{
+        "url" :"https://www.saucedemo.com/v1/",
+        "username":"standard_user",
+        "password":"secret_sauce"
+    },
+
+    "userExcel":{
+        "filePath" : "tests\\data\\userData.xlsx",
+        "sheetName" : "Sheet1"
+    }
+
+
+    
+}
